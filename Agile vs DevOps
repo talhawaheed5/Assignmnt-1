@@ -1,0 +1,11 @@
+DevOps 
+  DevOps is a software development method which focuses on communication, integration, and collaboration 
+  among IT professionals to enables rapid deployment of products.
+Agile
+  Agile Methodology involves continuous iteration of development and testing in the SDLC process. 
+  This software development method emphasizes on iterative, incremental, and evolutionary development.
+Differnece Between Agile and DevOps
+Agile emphasizes collaboration between developers and product management  DevOps includes the operations team
+Agile centers the flow of software from ideation to code completion — DevOps extends the focus to delivery and maintenance
+Agile emphasizes iterative development and small batches — DevOps focuses more on test and delivery automation 
+Agile adds structure to planned work for developers — DevOps incorporates unplanned work common to operations teams
