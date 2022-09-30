@@ -1,0 +1,9 @@
+Continuous integration 
+  Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors 
+  into a single software project. It's a primary DevOps best practice, allowing developers to frequently merge code changes 
+  into a central repository where builds and tests then run.
+Continuous delivery
+    Continuous delivery is a software development practice that uses automation to speed the release of new code.
+    It establishes a process through which a developer’s changes to an application can be pushed to a code repository 
+    or container registry through automation.
+  
