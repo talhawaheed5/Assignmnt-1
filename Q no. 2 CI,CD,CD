@@ -6,4 +6,7 @@ Continuous delivery
     Continuous delivery is a software development practice that uses automation to speed the release of new code.
     It establishes a process through which a developer’s changes to an application can be pushed to a code repository 
     or container registry through automation.
+Continuous Deployment
+    Continuous deployment goes one step further than continuous delivery. There's no human 
+    intervention, and only a failed test will prevent a new change to be deployed to production.
   
