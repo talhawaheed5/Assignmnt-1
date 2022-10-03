@@ -1,0 +1,6 @@
+methods of git reset
+     There are 3 Methods of Git Reset
+     
+1       Soft: local to staging
+2       Mixed: local to working directory
+3       Hard:  delete changes completely
