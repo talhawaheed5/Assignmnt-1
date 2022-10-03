@@ -1,0 +1,8 @@
+Stages of Git
+
+There are four Stages of Git are as follow.
+
+1    Working Directory: Where actual code is in local PC
+2   Staging Area: test env where code is ready to be sent in local repo
+3   Local repo: repo of local PC where code is ready to be committed to remote repo
+4   Remote: Repo of git where code pushed from local repo
