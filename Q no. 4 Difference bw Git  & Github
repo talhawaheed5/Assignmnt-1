@@ -1,0 +1,26 @@
+Define GIT
+  It is a free, high-quality distributed version control system suitable for tracking modifications 
+  in source code in software development. It was originally created as an open-source system for 
+  coordinating tasks among programmers, but today it is widely used to track changes in any set of
+  files. The key objectives of Git are as follows:
+    Speed and efficiency
+    Data integrity
+    Support for distributed and non-linear workflows
+    
+ Define GitHub
+    It is a web-based Git repository. This hosting service has cloud-based storage. GitHub 
+    offers all distributed version control and source code management functionality of Git while 
+    adding its own features. It makes it easier to collaborate using Git. 
+    
+    
+    GIT                         vs                          GitHub
+    
+ Git is software.                                     It is a service.
+
+Linux maintains Git.                                  Microsoft maintains GitHub. 
+
+It is a command-line tool.                           It is a graphical user interface.
+
+You can install it locally on the system.          It is hosted on the web. It is exclusively cloud-based.
+
+It is a VCS to manage source code history.          It is a hosting service for Git repositories.
